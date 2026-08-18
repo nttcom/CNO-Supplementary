@@ -4,7 +4,7 @@ This repository contains official Supplementary Material by the authors for the 
 
 ## Contents
 
-- Main Paper with Appendix: [main_with_appendix.pdf](main_with_appendix.pdf)
+- Main Paper: [IJCAI2026 Preprint](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/1998.pdf)
 - Appendix: [appendix.pdf](appendix.pdf)
 
 ## Disclaimer
