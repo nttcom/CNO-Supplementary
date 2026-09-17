@@ -4,7 +4,7 @@ This repository contains official Supplementary Material by the authors for the 
 
 ## Contents
 
-- Proceedings: [IJCAI 2026 Proceedings](https://www.ijcai.org/proceedings/2026/710)
+- Main Paper: [IJCAI 2026 Proceedings](https://www.ijcai.org/proceedings/2026/710)
 - Appendix: [appendix.pdf](appendix.pdf)
 
 ## Disclaimer
